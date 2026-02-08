@@ -6,8 +6,8 @@
 ## Tom Image
 ![Tom](images/tom.png)
 
-## now add some animal images 
+## Panda image
 ![Panda](images/panda.jpg)
 
-## now lets add cat image 
+## Cat image 
 ![Cat](images/cat.jpg)
