@@ -8,3 +8,6 @@
 
 ## now add some animal images 
 ![Panda](images/panda.jpg)
+
+## now lets add cat image 
+![Cat](images/cat.jpg)
