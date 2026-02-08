@@ -7,4 +7,4 @@
 ![Tom](images/tom.png)
 
 ## now add some animal images 
- [Panda](images/panda.jpg)
+![Panda](images/panda.jpg)
