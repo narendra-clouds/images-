@@ -5,3 +5,5 @@
 
 ## Tom Image
 ![Tom](images/tom.png)
+
+## now add some animal images 
